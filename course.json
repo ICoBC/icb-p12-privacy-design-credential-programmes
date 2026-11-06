@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-P12",
+  "repository": "icb-p12-privacy-design-credential-programmes",
+  "repository_url": "https://github.com/ICoBC/icb-p12-privacy-design-credential-programmes",
+  "title": "Privacy by Design for Credential Programmes",
+  "subtitle": "A data protection impact assessment, done properly.",
+  "version": "1.0.0",
+  "series": "Practitioner",
+  "skill": "Security, privacy and data protection",
+  "level": "3",
+  "level_name": "Enable",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-SECP-L3-A",
+  "badge_name": "Privacy by Design for Credential Programmes (Ability, L3)",
+  "hours": "6",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-p12/",
+  "parts": [
+    "About this course",
+    "The DPIA step by step",
+    "Minimisation",
+    "Selective disclosure options",
+    "Privacy of status and revocation",
+    "Contracts",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 21
+}
